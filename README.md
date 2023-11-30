@@ -1,6 +1,6 @@
 # FitHubConnect
 
-## Prpject Overview
+## Project Overview
 
 FitHubConnect is a fitness website that aims to revolutionize your fitness journey. Join our community, explore diverse fitness programs, and empower yourself to be the best version of yourself.
 
